@@ -21,9 +21,9 @@ https://jmnpjayden.github.io/jayden-portfolio/
 
 ## 💡 About Me
 
-I am a software developer with a strong interest in backend systems and game development. I have experience building modular and scalable systems, including projects in Roblox using object-oriented programming principles.
+I am a full stack developer with a strong interest in backend systems and game development. I have experience building modular and scalable systems, including projects in Roblox using object-oriented programming principles.
 
 ## 📬 Contact
 
 * GitHub: https://github.com/jmnpjayden
-* Email: [your@email.com](mailto:your@email.com)
+* Email: [your@email.com](mailto:jaydenjmnppratt@email.com)
